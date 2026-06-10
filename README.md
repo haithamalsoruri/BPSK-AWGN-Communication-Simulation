@@ -17,7 +17,7 @@ $$BER_{theory} = \frac{1}{2} \text{erfc}(\sqrt{\text{SNR}})$$
 ## 3. منحنى أداء النظام (BER Performance Curve)
 يوضح الرسم البياني الناتج عن تنفيذ الكود التطابق الدقيق والكامل بين المحاكاة العملية والمنحنى النظري القياسي:
 
-<img src="BER_BPSK_AWGN.png" alt="BPSK BER Curve Performance" width="100%">
+<img src="BER_BPSK_AWGN.png" alt="BPSK BER Curve" width="100%">
 
 ## 4. كيفية التشغيل والتنفيذ
 1. قم بتحميل ملف الكود `BPSK_AWGN__Simulation.m`.
